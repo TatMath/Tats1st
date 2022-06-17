@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2021.12.18)  17 JUN 2022 10:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2021.12.18)  17 JUN 2022 10:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2085,111 +2085,111 @@ ex.map} <./logo.png>] (./main.toc) [2
 
 ] [3
 
+] [4
+
 ]
-<Maxwell.jpg, id=78, 587.19376pt x 587.19376pt>
+<Maxwell.jpg, id=86, 587.19376pt x 587.19376pt>
 File: Maxwell.jpg Graphic file (type jpg)
  <use Maxwell.jpg>
-Package pdftex.def Info: Maxwell.jpg used on input line 193.
+Package pdftex.def Info: Maxwell.jpg used on input line 194.
 (pdftex.def)             Requested size: 117.43666pt x 117.43666pt.
 
-Overfull \vbox (9.12672pt too high) detected at line 193
- []
-
-[4
-
- <./Maxwell.jpg>]
-File: Maxwell.jpg Graphic file (type jpg)
- <use Maxwell.jpg>
-Package pdftex.def Info: Maxwell.jpg used on input line 193.
-(pdftex.def)             Requested size: 117.43666pt x 117.43666pt.
-
-Overfull \vbox (9.12672pt too high) detected at line 193
+Overfull \vbox (9.12672pt too high) detected at line 194
  []
 
 [5
 
-]
+ <./Maxwell.jpg>]
 File: Maxwell.jpg Graphic file (type jpg)
  <use Maxwell.jpg>
-Package pdftex.def Info: Maxwell.jpg used on input line 193.
+Package pdftex.def Info: Maxwell.jpg used on input line 194.
 (pdftex.def)             Requested size: 117.43666pt x 117.43666pt.
 
-Overfull \vbox (9.12672pt too high) detected at line 193
+Overfull \vbox (9.12672pt too high) detected at line 194
  []
 
 [6
 
-] <Yang-Mills.jpg, id=94, 529.98pt x 388.45125pt>
-File: Yang-Mills.jpg Graphic file (type jpg)
- <use Yang-Mills.jpg>
-Package pdftex.def Info: Yang-Mills.jpg used on input line 203.
-(pdftex.def)             Requested size: 148.39337pt x 108.7656pt.
+]
+File: Maxwell.jpg Graphic file (type jpg)
+ <use Maxwell.jpg>
+Package pdftex.def Info: Maxwell.jpg used on input line 194.
+(pdftex.def)             Requested size: 117.43666pt x 117.43666pt.
+
+Overfull \vbox (9.12672pt too high) detected at line 194
+ []
 
 [7
+
+] <Yang-Mills.jpg, id=103, 529.98pt x 388.45125pt>
+File: Yang-Mills.jpg Graphic file (type jpg)
+ <use Yang-Mills.jpg>
+Package pdftex.def Info: Yang-Mills.jpg used on input line 204.
+(pdftex.def)             Requested size: 148.39337pt x 108.7656pt.
+
+[8
 
  <./Yang-Mills.jpg>]
 File: Yang-Mills.jpg Graphic file (type jpg)
  <use Yang-Mills.jpg>
-Package pdftex.def Info: Yang-Mills.jpg used on input line 203.
-(pdftex.def)             Requested size: 148.39337pt x 108.7656pt.
- [8
-
-]
-File: Yang-Mills.jpg Graphic file (type jpg)
- <use Yang-Mills.jpg>
-Package pdftex.def Info: Yang-Mills.jpg used on input line 203.
+Package pdftex.def Info: Yang-Mills.jpg used on input line 204.
 (pdftex.def)             Requested size: 148.39337pt x 108.7656pt.
  [9
 
 ]
-[10
+File: Yang-Mills.jpg Graphic file (type jpg)
+ <use Yang-Mills.jpg>
+Package pdftex.def Info: Yang-Mills.jpg used on input line 204.
+(pdftex.def)             Requested size: 148.39337pt x 108.7656pt.
+ [10
 
 ]
-Overfull \vbox (5.67935pt too high) detected at line 215
- []
-
 [11
 
 ]
-Overfull \vbox (5.67935pt too high) detected at line 215
+Overfull \vbox (5.67935pt too high) detected at line 216
  []
 
 [12
 
 ]
-Overfull \vbox (5.67935pt too high) detected at line 215
+Overfull \vbox (5.67935pt too high) detected at line 216
  []
 
 [13
 
 ]
-Overfull \vbox (5.67935pt too high) detected at line 215
+Overfull \vbox (5.67935pt too high) detected at line 216
  []
 
 [14
 
-] <thumb.png, id=144, 1204.5pt x 1090.0725pt>
+]
+Overfull \vbox (5.67935pt too high) detected at line 216
+ []
+
+[15
+
+] <thumb.png, id=152, 1204.5pt x 1090.0725pt>
 File: thumb.png Graphic file (type png)
  <use thumb.png>
-Package pdftex.def Info: thumb.png used on input line 224.
+Package pdftex.def Info: thumb.png used on input line 225.
 (pdftex.def)             Requested size: 84.32361pt x 76.31287pt.
- [15
+ [16
 
  <./thumb.png>]
 File: thumb.png Graphic file (type png)
  <use thumb.png>
-Package pdftex.def Info: thumb.png used on input line 224.
+Package pdftex.def Info: thumb.png used on input line 225.
 (pdftex.def)             Requested size: 84.32361pt x 76.31287pt.
- [16
+ [17
 
 ]
 File: thumb.png Graphic file (type png)
  <use thumb.png>
-Package pdftex.def Info: thumb.png used on input line 224.
+Package pdftex.def Info: thumb.png used on input line 225.
 (pdftex.def)             Requested size: 84.32361pt x 76.31287pt.
- [17
-
-] [18
+ [18
 
 ] [19
 
@@ -2199,10 +2199,10 @@ Package pdftex.def Info: thumb.png used on input line 224.
 
 ] [22
 
-]
-[23
+] [23
 
-] [24
+]
+[24
 
 ] [25
 
@@ -2220,21 +2220,21 @@ Package pdftex.def Info: thumb.png used on input line 224.
 
 ] [32
 
-] (./main.toc) [33
+] [33
+
+] (./main.toc) [34
 
 ]
-Overfull \vbox (6.90097pt too high) detected at line 264
- []
-
-[34
-
-]
-Overfull \vbox (6.90097pt too high) detected at line 264
+Overfull \vbox (6.90097pt too high) detected at line 265
  []
 
 [35
 
-] [36
+]
+Overfull \vbox (6.90097pt too high) detected at line 265
+ []
+
+[36
 
 ] [37
 
@@ -2242,25 +2242,25 @@ Overfull \vbox (6.90097pt too high) detected at line 264
 
 ] [39
 
-]
-Overfull \vbox (7.56642pt too high) detected at line 290
- []
-
-[40
+] [40
 
 ]
-Overfull \vbox (7.56642pt too high) detected at line 290
+Overfull \vbox (7.56642pt too high) detected at line 291
  []
 
 [41
 
 ]
-Overfull \vbox (7.56642pt too high) detected at line 290
+Overfull \vbox (7.56642pt too high) detected at line 291
  []
 
 [42
 
-] [43
+]
+Overfull \vbox (7.56642pt too high) detected at line 291
+ []
+
+[43
 
 ] [44
 
@@ -2268,54 +2268,54 @@ Overfull \vbox (7.56642pt too high) detected at line 290
 
 ] [46
 
-]
-Overfull \vbox (15.5409pt too high) detected at line 313
- []
-
-[47
+] [47
 
 ]
-Overfull \vbox (15.5409pt too high) detected at line 313
+Overfull \vbox (15.5409pt too high) detected at line 314
  []
 
 [48
 
 ]
-Overfull \vbox (16.40097pt too high) detected at line 328
+Overfull \vbox (15.5409pt too high) detected at line 314
  []
 
 [49
 
 ]
-Overfull \vbox (16.40097pt too high) detected at line 328
+Overfull \vbox (16.40097pt too high) detected at line 329
  []
 
 [50
 
 ]
-Overfull \vbox (16.40097pt too high) detected at line 328
+Overfull \vbox (16.40097pt too high) detected at line 329
  []
 
 [51
 
 ]
-Overfull \vbox (16.40097pt too high) detected at line 328
+Overfull \vbox (16.40097pt too high) detected at line 329
  []
 
 [52
 
 ]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 329.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 329.
+Overfull \vbox (16.40097pt too high) detected at line 329
+ []
 
 [53
 
-] [54
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 330.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 330.
+
+[54
 
 ] [55
 
@@ -2327,103 +2327,94 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 ] [59
 
-]
-Overfull \vbox (18.63779pt too high) detected at line 371
- []
-
-[60
+] [60
 
 ]
-Overfull \vbox (18.63779pt too high) detected at line 371
+Overfull \vbox (18.63779pt too high) detected at line 372
  []
 
 [61
 
 ]
-Overfull \vbox (18.63779pt too high) detected at line 371
+Overfull \vbox (18.63779pt too high) detected at line 372
  []
 
 [62
 
 ]
-Overfull \vbox (18.63779pt too high) detected at line 371
+Overfull \vbox (18.63779pt too high) detected at line 372
  []
 
 [63
 
 ]
-Overfull \vbox (18.63779pt too high) detected at line 371
+Overfull \vbox (18.63779pt too high) detected at line 372
  []
 
 [64
 
-] [65
+]
+Overfull \vbox (18.63779pt too high) detected at line 372
+ []
 
-] <manifold1.png, id=432, 542.025pt x 542.025pt>
+[65
+
+] [66
+
+] <manifold1.png, id=441, 542.025pt x 542.025pt>
 File: manifold1.png Graphic file (type png)
  <use manifold1.png>
-Package pdftex.def Info: manifold1.png used on input line 382.
+Package pdftex.def Info: manifold1.png used on input line 383.
 (pdftex.def)             Requested size: 81.30023pt x 81.30023pt.
 
-<manifold2.png, id=433, 384.12pt x 409.86pt>
+<manifold2.png, id=442, 384.12pt x 409.86pt>
 File: manifold2.png Graphic file (type png)
  <use manifold2.png>
-Package pdftex.def Info: manifold2.png used on input line 382.
+Package pdftex.def Info: manifold2.png used on input line 383.
 (pdftex.def)             Requested size: 76.82263pt x 81.97054pt.
 
-<manifold4.png, id=434, 526.96875pt x 442.65375pt>
+<manifold4.png, id=443, 526.96875pt x 442.65375pt>
 File: manifold4.png Graphic file (type png)
  <use manifold4.png>
-Package pdftex.def Info: manifold4.png used on input line 382.
+Package pdftex.def Info: manifold4.png used on input line 383.
 (pdftex.def)             Requested size: 105.39188pt x 88.52917pt.
- [66
+ [67
 
  <./manifold1.png> <./manifold2.png> <./manifold4.png>]
 File: manifold1.png Graphic file (type png)
  <use manifold1.png>
-Package pdftex.def Info: manifold1.png used on input line 382.
+Package pdftex.def Info: manifold1.png used on input line 383.
 (pdftex.def)             Requested size: 81.30023pt x 81.30023pt.
 File: manifold2.png Graphic file (type png)
 
 <use manifold2.png>
-Package pdftex.def Info: manifold2.png used on input line 382.
+Package pdftex.def Info: manifold2.png used on input line 383.
 (pdftex.def)             Requested size: 76.82263pt x 81.97054pt.
 File: manifold4.png Graphic file (type png)
  <use manifold4.png>
-Package pdftex.def Info: manifold4.png used on input line 382.
+Package pdftex.def Info: manifold4.png used on input line 383.
 (pdftex.def)             Requested size: 105.39188pt x 88.52917pt.
- [67
+ [68
 
 ]
-<singular.jpg, id=449, 299.61937pt x 277.035pt>
+<singular.jpg, id=458, 299.61937pt x 277.035pt>
 File: singular.jpg Graphic file (type jpg)
  <use singular.jpg>
-Package pdftex.def Info: singular.jpg used on input line 391.
+Package pdftex.def Info: singular.jpg used on input line 392.
 (pdftex.def)             Requested size: 44.94096pt x 41.55345pt.
 
-Overfull \vbox (0.43184pt too high) detected at line 391
- []
-
-[68
-
- <./singular.jpg>]
-File: singular.jpg Graphic file (type jpg)
- <use singular.jpg>
-Package pdftex.def Info: singular.jpg used on input line 391.
-(pdftex.def)             Requested size: 44.94096pt x 41.55345pt.
-
-Overfull \vbox (0.43184pt too high) detected at line 391
+Overfull \vbox (0.43184pt too high) detected at line 392
  []
 
 [69
 
-]
+ <./singular.jpg>]
 File: singular.jpg Graphic file (type jpg)
  <use singular.jpg>
-Package pdftex.def Info: singular.jpg used on input line 391.
+Package pdftex.def Info: singular.jpg used on input line 392.
 (pdftex.def)             Requested size: 44.94096pt x 41.55345pt.
 
-Overfull \vbox (0.43184pt too high) detected at line 391
+Overfull \vbox (0.43184pt too high) detected at line 392
  []
 
 [70
@@ -2431,20 +2422,31 @@ Overfull \vbox (0.43184pt too high) detected at line 391
 ]
 File: singular.jpg Graphic file (type jpg)
  <use singular.jpg>
-Package pdftex.def Info: singular.jpg used on input line 391.
+Package pdftex.def Info: singular.jpg used on input line 392.
 (pdftex.def)             Requested size: 44.94096pt x 41.55345pt.
 
-Overfull \vbox (0.43184pt too high) detected at line 391
+Overfull \vbox (0.43184pt too high) detected at line 392
  []
 
 [71
 
-] <thankyou.png, id=470, 1027.84pt x 770.88pt>
+]
+File: singular.jpg Graphic file (type jpg)
+ <use singular.jpg>
+Package pdftex.def Info: singular.jpg used on input line 392.
+(pdftex.def)             Requested size: 44.94096pt x 41.55345pt.
+
+Overfull \vbox (0.43184pt too high) detected at line 392
+ []
+
+[72
+
+] <thankyou.png, id=479, 1027.84pt x 770.88pt>
 File: thankyou.png Graphic file (type png)
  <use thankyou.png>
-Package pdftex.def Info: thankyou.png used on input line 399.
+Package pdftex.def Info: thankyou.png used on input line 400.
 (pdftex.def)             Requested size: 364.19536pt x 273.15263pt.
- [72
+ [73
 
  <./thankyou.png>]
 \tf@nav=\write6
@@ -2456,11 +2458,11 @@ Package pdftex.def Info: thankyou.png used on input line 399.
 \tf@snm=\write8
 \openout8 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 400.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 400.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 401.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 401.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 400.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 400.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 401.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 401.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -2468,10 +2470,10 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 44937 strings out of 492995
- 993105 string characters out of 6136401
+ 44946 strings out of 492995
+ 993181 string characters out of 6136401
  1343025 words of memory out of 5000000
- 47282 multiletter control sequences out of 15000+600000
+ 47288 multiletter control sequences out of 15000+600000
  42447 words of font info for 128 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,13n,98p,3232b,820s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2492,10 +2494,10 @@ e1/public/cm-super/sfss1440.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/
 cm-super/sfsx1095.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/cm-super/s
 fsx1200.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pf
 b>
-Output written on main.pdf (72 pages, 1203666 bytes).
+Output written on main.pdf (73 pages, 1204656 bytes).
 PDF statistics:
- 592 PDF objects out of 1000 (max. 8388607)
- 460 compressed objects within 5 object streams
- 153 named destinations out of 1000 (max. 500000)
- 248 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 606 PDF objects out of 1000 (max. 8388607)
+ 473 compressed objects within 5 object streams
+ 156 named destinations out of 1000 (max. 500000)
+ 256 words of extra memory for PDF output out of 10000 (max. 10000000)
 

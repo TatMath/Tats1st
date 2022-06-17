@@ -1,8 +1,9 @@
 \beamer@sectionintoc {1}{Introduction}{3}{0}{1}
-\beamer@sectionintoc {2}{Differential Forms}{10}{0}{2}
-\beamer@subsectionintoc {2}{1}{Hodge Star Operator}{33}{0}{2}
-\beamer@sectionintoc {3}{Maxwell's Equations}{39}{0}{3}
-\beamer@sectionintoc {4}{Yang--Mills Equations}{46}{0}{4}
-\beamer@sectionintoc {5}{Finally, Instantons (in $4$-dimensions)}{53}{0}{5}
-\beamer@sectionintoc {6}{Instantons in higher Dimensions}{59}{0}{6}
-\beamer@sectionintoc {7}{Why would we care?}{65}{0}{7}
+\beamer@sectionintoc {2}{Introduction2}{4}{0}{2}
+\beamer@sectionintoc {3}{Differential Forms}{11}{0}{3}
+\beamer@subsectionintoc {3}{1}{Hodge Star Operator}{34}{0}{3}
+\beamer@sectionintoc {4}{Maxwell's Equations}{40}{0}{4}
+\beamer@sectionintoc {5}{Yang--Mills Equations}{47}{0}{5}
+\beamer@sectionintoc {6}{Finally, Instantons (in $4$-dimensions)}{54}{0}{6}
+\beamer@sectionintoc {7}{Instantons in higher Dimensions}{60}{0}{7}
+\beamer@sectionintoc {8}{Why would we care?}{66}{0}{8}
